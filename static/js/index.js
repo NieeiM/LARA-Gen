@@ -134,7 +134,7 @@ function setupMusicComparisonTable() {
             audioPlayer.style.maxWidth = '250px';
 
             const source = document.createElement('source');
-            source.src = `static/wavs/${system}/${item.id}.wav`;
+            source.src = `./static/wavs/${system}/${item.id}.wav`;
             source.type = 'audio/wav';
 
             audioPlayer.appendChild(source);
