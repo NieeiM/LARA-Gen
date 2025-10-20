@@ -8,11 +8,12 @@
 This is the official repository for the paper "[LARA-Gen: Enabling Continuous Emotion Control for Music Generation Models via Latent Affective Representation Alignment](https://arxiv.org/abs/2510.05875)". LARA-Gen is a music generation model capable of producing high-quality music conditioned on continuous valence–arousal emotion labels (e.g., valence: 2.9, arousal: 4.6).
 
 We provide the emotion evaluation part of LARA-Gen, including the Emotion Predictor and the emotion test set.
-The Emotion Predictor estimates continuous valence–arousal values for a given music sample.
+The Emotion Predictor estimates continuous valence–arousal values for a given music sample. 
+Please refer to this [repo](https://github.com/NieeiM/LARA_Gen)
 
 
 ## :memo: TODO
-- [ ] Add Emotion Predicotr and testset
+- [x] Add Emotion Predicotr and testset. Refer to this [repo](https://github.com/NieeiM/LARA_Gen).
 
 
 ## :book: Citation
